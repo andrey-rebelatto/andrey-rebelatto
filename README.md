@@ -1,16 +1,13 @@
-## Hi there 👋
+### About me
 
-<!--
-**andrey-rebelatto/andrey-rebelatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mid-Level Developer specializing in TOTVS technologies, working with the Protheus ERP (ADVPL language) and the Fluig Portal, which uses JavaScript and a hybrid Java backend.
 
-Here are some ideas to get you started:
+I have two years of experience in developing technological solutions, focusing on process improvement and system integrations. I am experienced with agile methodologies, technical documentation, and direct client interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about technology and learning new ways to create innovative solutions, and I am currently a Software Engineering student.
+
+### Skills
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,express,react,firebase)
+<br>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,mongo)
