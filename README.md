@@ -29,6 +29,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠿⣷⣤⣄⣠⣤⣿⣼⠀⡇⠀⣧⡾⠉⠉⠙⠶⣧⣥⡼⠞⠁⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠀⠉⠛⠳⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-[Email](mailto:andrey.rebelatto31@gmail.com) &nbsp;•&nbsp; [Linkedin](https://www.linkedin.com/in/andrey-rebelatto)
+[Email](mailto:andrey.rebelatto31@gmail.com) &nbsp;✦&nbsp; [Linkedin](https://www.linkedin.com/in/andrey-rebelatto)
 
 </div>
